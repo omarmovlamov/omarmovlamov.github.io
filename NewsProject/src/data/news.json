@@ -1,0 +1,216 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Paulo Trevisani, Dow Jones Newswires, Philip Waller, Dow Jones Newswires, Angela Palumbo, Emily Dattilo, Dan Molinski, Dow Jones Newswires, Sabrina Escobar, Shaina Mishkin, Jack Denton, Dominic Chopping, Dow Jones Newswires",
+      "title": "U.S. Stock Futures Pause Ahead of JOLTs Data, With Jobs Report in Focus - Barron's",
+      "description": "Barron's live coverage of financial markets, from stocks and bonds to oil and crypto.",
+      "url": "https://www.barrons.com/livecoverage/stock-market-today-082923",
+      "urlToImage": "https://images.barrons.com/im-783602/social",
+      "publishedAt": "2023-08-29T16:26:00Z",
+      "content": "The number of job openings dropped in July when economists were expecting an increase.\r\nThe Job Openings and Labor Turnover Survey showed that the number of job openings declined to 8.8 million in Ju… [+1422 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Svea Herbst-Bayliss, Maggie Fick",
+      "title": "Exclusive: Catalent to explore options after Elliott deal-sources - Reuters",
+      "description": "(This August 28 story has been refiled to correct the spelling of Elliott in the headline)",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/catalent-nears-settlement-with-elliott-board-seats-sources-2023-08-28/",
+      "urlToImage": "https://www.reuters.com/resizer/zXKsHOXTJrONoQBxIZ2dq8PzUNI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TI6FIPKCZ5KPJIQXMNMOKXS2NQ.jpg",
+      "publishedAt": "2023-08-29T16:09:50Z",
+      "content": "Aug 29 (Reuters) - (This August 28 story has been refiled to correct the spelling of Elliott in the headline)\r\nCatalent Inc (CTLT.N) is close to reaching a settlement with activist investor Elliott I… [+4618 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jordan Valinsky",
+      "title": "3M agrees to pay $6 billion after US military said faulty earplugs led to hearing loss - CNN",
+      "description": "3M has agreed to pay $6 billion to resolve roughly 300,000 lawsuits alleging that the manufacturing company supplied faulty combat earplugs to the military that resulted in significant injuries, such as hearing loss.",
+      "url": "https://www.cnn.com/2023/08/29/business/3m-settlement-military-earplugs-lawsuits/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230829073308-01-3m-hq-040620-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-29T16:09:00Z",
+      "content": "3M has agreed to pay $6 billion to resolve roughly 300,000 lawsuits alleging that the manufacturing company supplied faulty combat earplugs to the military that resulted in significant injuries, such… [+2122 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Nichola Groom",
+      "title": "Bidding opens in first U.S. offshore wind auction in Gulf of Mexico - Reuters",
+      "description": "The Biden administration's first ever auction of offshore wind development rights in the Gulf of Mexico ended with a single $5.6 million winning bid on Tuesday, reflecting meager demand for the clean energy source in a region known for its oil and gas product…",
+      "url": "https://www.reuters.com/sustainability/us-launches-first-offshore-wind-auction-oil-rich-gulf-mexico-2023-08-29/",
+      "urlToImage": "https://www.reuters.com/resizer/U59xyIH8FF0J7rS8PFVjXv2Bmfc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KETMPE2TRVJAVKHTPOSOO56J5A.jpg",
+      "publishedAt": "2023-08-29T16:04:00Z",
+      "content": "Aug 29 (Reuters) - The Biden administration's first ever auction of offshore wind development rights in the Gulf of Mexico ended with a single $5.6 million winning bid on Tuesday, reflecting meager d… [+2186 chars]"
+    },
+
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Jonathan Stempel",
+      "title": "Burger King must face lawsuit claiming its Whoppers are too small - Reuters",
+      "description": "A U.S. judge has rejected Burger King's bid to dismiss a lawsuit claiming that it cheated hungry customers by making its Whopper sandwich appear larger than it actually is.",
+      "url": "https://www.reuters.com/legal/burger-king-must-face-lawsuit-claiming-its-whoppers-are-too-small-2023-08-29/",
+      "urlToImage": "https://www.reuters.com/resizer/x4_y2TIJoJRf1BYz7IaY-NTmTek=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MTBWKCE7BFLY5J5LD3P7FWIEUY.jpg",
+      "publishedAt": "2023-08-29T15:22:00Z",
+      "content": "Aug 29 (Reuters) - A U.S. judge has rejected Burger King's bid to dismiss a lawsuit claiming that it cheated hungry customers by making its Whopper sandwich appear larger than it actually is.\r\nU.S. D… [+1868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Inflation on a 'glide path lower' following JOLTs data and other signs, says Fundstrat's Tom Lee - CNBC Television",
+      "description": "Tom Lee, Fundstrat Global Advisors, joins 'Squawk on the Street' to discuss the latest job openings data, the Fed rhetoric that would back up inflation's tra...",
+      "url": "https://www.youtube.com/watch?v=qot0fJehozg",
+      "urlToImage": "https://i.ytimg.com/vi/qot0fJehozg/maxresdefault.jpg",
+      "publishedAt": "2023-08-29T15:21:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Chinese banks to cut existing mortgage rates as property crisis deepens - Reuters",
+      "description": "Some Chinese state-owned banks will soon lower interest rates on existing mortgages, three sources familiar with the matter said on Tuesday, as Beijing ramps up efforts to revive the debt crisis-hit property sector and bolster a sputtering economy.",
+      "url": "https://www.reuters.com/business/finance/chinas-agbank-posts-348-rise-first-half-profit-2023-08-29/",
+      "urlToImage": "https://www.reuters.com/resizer/ue-yIaJ724ILEOnHLhvxnR1j3QU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VG5WOQVEINOTFKU75RLNKWBSPI.jpg",
+      "publishedAt": "2023-08-29T15:13:00Z",
+      "content": "BEIJING, Aug 29 (Reuters) - Some Chinese state-owned banks will soon lower interest rates on existing mortgages, three sources familiar with the matter said on Tuesday, as Beijing ramps up efforts to… [+4112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tricare.mil"
+      },
+      "author": null,
+      "title": "Copayments, Cost-Shares, and Other TRICARE Costs You Should Know - TRICARE Newsroom",
+      "description": "When it comes to health care costs, “copayment,” “cost-share,” and “deductible” are terms you might hear a lot. But what do these terms mean, and how might they affect you?",
+      "url": "https://newsroom.tricare.mil/News/TRICARE-News/Article/3508205/copayments-cost-shares-and-other-tricare-costs-you-should-know",
+      "urlToImage": "https://media.defense.gov/2023/Aug/29/2003290196/1920/1080/0/230829-A-AB123-001.JPG",
+      "publishedAt": "2023-08-29",
+      "content": "FALLS CHURCH, Va.  –  \r\nWhen it comes to health care costs, “copayment,” “cost-share,” and “deductible” are terms you might hear a lot. But what do these terms mean, and how might they affect you?Cop… [+3929 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "CHRISTOPHER RUGABER AP Economics Writer",
+      "title": "Job vacancies, quits plunge in July in stark sign of cooling trend in the US labor market - ABC News",
+      "description": "Businesses posted far fewer open jobs in July and the number of Americans quitting their jobs fell sharply for the second straight month, clear signs that the labor market is cooling in a way that could reduce inflation",
+      "url": "https://abcnews.go.com/US/wireStory/job-vacancies-quits-plunge-july-stark-sign-cooling-102646850",
+      "urlToImage": "https://s.abcnews.com/images/US/wirestory_be40718e68b9381d5925139d40e2fe8e_16x9_992.jpg",
+      "publishedAt": "2023-08-29",
+      "content": "WASHINGTON -- Businesses posted far fewer open jobs in July and the number of Americans quitting their jobs fell sharply for the second straight month, clear signs that the labor market is cooling in… [+2817 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "David Hollerith",
+      "title": "Regulators now want regional banks to issue more debt to cover losses if they fail - Yahoo Finance",
+      "description": "New rules proposed by the FDIC on Tuesday would require banks with more than $100 billion in assets to issue enough long-term debt to absorb losses in case...",
+      "url": "https://finance.yahoo.com/news/regulators-now-want-regional-banks-to-issue-more-debt-to-cover-losses-if-they-fail-144934250.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2KjhXOycG2hJmt2EyPQp1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTI-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/c3552050-f096-11ed-8def-c1a959f9bfcd",
+      "publishedAt": "2023-08-29",
+      "content": "Regulators unveiled a new set of bank rules Tuesday that would require lenders with at least $100 billion in assets to issue enough long-term debt to absorb losses in case of a potential seizure.\r\nTh… [+2985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "MacKenzie Sigalos, Tanaya Macheel",
+      "title": "First bitcoin ETF could be coming soon as court rules in favor of Grayscale over SEC - CNBC",
+      "description": "First bitcoin ETF could be coming soon as court rules in favor of Grayscale over SEC.",
+      "url": "https://www.cnbc.com/2023/08/29/first-bitcoin-etf-could-be-coming-soon-as-court-rules-in-favor-of-grayscale-over-sec.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107047831-GrayscaleInvestments-OB-Photo-20220418-ACJ-016-PRESS-6.jpg?v=1693323235&w=1920&h=1080",
+      "publishedAt": "2023-08-29",
+      "content": "The U.S. Court of Appeals for the D.C. Circuit has paved the way for bitcoin exchange-traded funds.\r\nOn Tuesday, the court sided with Grayscale in a lawsuit against the Securities and Exchange Commis… [+3525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kyodonews.net"
+      },
+      "author": "KYODO NEWS",
+      "title": "Operations at all Toyota plants in Japan halted after system failure - Kyodo News Plus",
+      "description": "Toyota Motor Corp. says operations at all 14 of its group's vehicle assembly plants in Japan have been halted after a computer system failure earlier that it said was unlikely to have been caused by a cyberattack.",
+      "url": "https://english.kyodonews.net",
+      "urlToImage": "https://img.kyodonews.net/english/public/images/posts/d77eb9a8b94e03947dff9dfeb0e972da/cropped_image_l.jpg",
+      "publishedAt": "2023-08-29",
+      "content": "Toyota Motor Corp. said Tuesday operations at all 14 of its group's vehicle assembly plants in Japan have been halted after a computer system failure earlier that it said was unlikely to have been ca… [+1855 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Will Feuer",
+      "title": "U.S. Steel Entering Confidential Pacts as It Reviews Bids - The Wall Street Journal",
+      "description": "Steelmaker says it has ‘multiple unsolicited proposals’ that include buyouts",
+      "url": "https://www.wsj.com/business/deals/u-s-steel-entering-confidential-pacts-as-it-reviews-bids-a9978a6b",
+      "urlToImage": "https://images.wsj.net/im-843657/social",
+      "publishedAt": "2023-08-29",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "The risk-reward in fixed income is looking really attractive, says JPMorgan's Gabriela Santos - CNBC Television",
+      "description": "Gabriela Santos, JPMorgan Asset Management global market strategist, joins 'Squawk Box' to discuss the latest market trends, earnings season, fixed income op...",
+      "url": "https://www.youtube.com/watch?v=bV5P-PYtqcc",
+      "urlToImage": "https://i.ytimg.com/vi/bV5P-PYtqcc/maxresdefault.jpg",
+      "publishedAt": "2023-08-29T13:31:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "Heico Stock Falls After the Aerospace Supplier's Earnings Beat. Here's Why. - Barron's",
+      "description": "The company reports fiscal third-quarter sales of about $723 million. Wall Street was looking for about $702 million.",
+      "url": "https://www.barrons.com/articles/heico-earnings-stock-price-408adabf",
+      "urlToImage": "https://images.barrons.com/im-815080/social",
+      "publishedAt": "2023-08-29T13:20:00Z",
+      "content": "Sometimes high expectations can come back to bit a stock. Aerospace aftermarket parts leader \r\nHeico\r\n(ticker: HEI) reported better-than-expected fiscal third-quarter sales and earnings late Monday. … [+2124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Jack Denton",
+      "title": "Alibaba and Other China Stocks Rise Again. Why Long-Term Gains May Be Harder. - Barron's",
+      "description": "Chinese shares gained for a second day after stimulus from Beijing boosted the equity market. It doesn't solve the country's bigger woes, though.",
+      "url": "https://www.barrons.com/articles/alibaba-jd-com-hong-kong-china-stocks-ad42336b",
+      "urlToImage": "https://images.barrons.com/im-803045/social",
+      "publishedAt": "2023-08-29T13:17:00Z",
+      "content": "Chinese stocks advanced on Tuesday for a second day after Beijing ushered in stimulus measures boosting capital markets. While short-term gains for \r\nAlibaba\r\nand others will be welcome, they dont ov… [+2055 chars]"
+    }
+  ]
+}

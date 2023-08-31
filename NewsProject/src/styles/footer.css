@@ -1,0 +1,44 @@
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #1d2641;
+  color: #fff;
+  letter-spacing: 1px;
+  padding: 10px 30px;
+}
+footer a {
+  color: #9c9c9c;
+}
+footer a:hover {
+  color: #fff;
+}
+footer div {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  text-align: center;
+}
+.footer-head {
+  display: flex;
+  justify-content: space-between;
+}
+.socials svg {
+  font-size: 24px;
+}
+
+#twitter {
+  color: #1da1f2;
+}
+#linkedin {
+  color: #0a66c2;
+}
+
+@media (max-width: 518px) {
+  .footer-head .socials {
+    display: flex;
+    flex-direction: row;
+  }
+  footer div:nth-child(2) {
+    display: flex;
+    flex-direction: column;
+  }
+}

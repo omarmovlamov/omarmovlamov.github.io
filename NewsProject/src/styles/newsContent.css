@@ -1,0 +1,193 @@
+.content-foot {
+  margin: 20px 15px 0 15px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.content-left-right {
+  display: flex;
+  flex-direction: row;
+}
+.foot-leftSide {
+  width: 70%;
+}
+.foot-leftSide-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: none;
+  border-bottom: 2px solid #0c7075;
+  color: #fff;
+}
+.news-a-rightSide a {
+  margin-left: 25px;
+}
+.news-title {
+  background-color: #0c7075;
+  padding: 0px 5px;
+}
+.news-a-rightSide span {
+  margin-left: 20px;
+}
+.foot-leftContent img {
+  margin-top: 20px;
+  width: 500px;
+}
+.foot-leftContent div:nth-child(1) {
+  width: 90%;
+}
+.foot-leftContent {
+  width: 50%;
+}
+.foot-rightContent {
+  margin-top: 20px;
+  width: 50%;
+}
+.foot-rightContent img {
+  width: 200px;
+  height: 150px;
+}
+.foot-rightContent div {
+  display: flex;
+  flex-direction: row;
+}
+.foot-rightContent div div {
+  display: flex;
+  flex-direction: column;
+}
+
+#leftSide-img {
+  box-shadow: 6px 6px 10px black;
+  border-radius: 15px;
+  transition: 0.5s ease-in;
+}
+#leftSide-img:hover {
+  box-shadow: 3px 3px 5px black;
+  transform: scale(1.05);
+}
+#rightSide-img {
+  border-radius: 15px;
+  transition: 0.5s ease-in;
+}
+#rightSide-img:hover {
+  transform: scale(1.1);
+}
+
+/* RİGHT SİDE */
+.foot-rightSide {
+  width: 30%;
+  padding: 0 35px;
+}
+.foot-rightSide-nav {
+  border: none;
+  border-bottom: 2px solid #05161a;
+  color: #fff;
+}
+
+.foot-rightSide-nav p {
+  width: 145px;
+  text-align: center;
+  background-color: #05161a;
+  padding: 0px 5px;
+}
+
+/* SOCİAL MEDİA */
+.socialMedia .row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.socialMedia {
+  margin-top: 20px;
+}
+.socialMedia div {
+  margin-top: 20px;
+}
+#facebook {
+  font-size: 24px;
+  color: #4867aa;
+}
+#youtube {
+  color: red;
+  font-size: 24px;
+}
+#instagram {
+  color: #e4405f;
+  font-size: 24px;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .foot-rightContent img {
+    width: 200px;
+    height: 150px;
+  }
+  .foot-rightContent div {
+    display: flex;
+    flex-direction: column;
+  }
+  .foot-leftContent img {
+    margin-top: 20px;
+    width: 800px;
+  }
+  .content-foot {
+    margin: 20px 15px 0 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .foot-leftSide {
+    width: 100%;
+    padding: 0 35px;
+  }
+  .foot-rightSide {
+    width: 100%;
+    padding: 0 35px;
+  }
+}
+/* Phone */
+@media (max-width: 767px) {
+  .foot-rightContent img {
+    width: 200px;
+    height: 150px;
+  }
+  .foot-rightContent div {
+    display: flex;
+    flex-direction: column;
+  }
+  .content-foot {
+    margin: 20px 15px 0 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .foot-leftSide {
+    width: 100%;
+    padding: 0 35px;
+  }
+  .foot-rightSide {
+    width: 100%;
+    margin-top: 20px;
+    padding: 0 35px;
+  }
+  .content-left-right {
+    display: flex;
+    flex-direction: column;
+  }
+  .foot-leftContent div:nth-child(1) {
+    width: 150%;
+  }
+  .foot-rightContent img {
+    width: 100%;
+    height: 100%;
+  }
+  .foot-rightContent {
+    width: 70%;
+  }
+  #remove {
+    display: none;
+  }
+  .socialMedia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
